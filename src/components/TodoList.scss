@@ -1,0 +1,18 @@
+.todo-list-area {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.todo-list-glass {
+  width: 430px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background: rgba(178, 194, 255, 0.10);
+  border-radius: 16px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(4.8px);
+  -webkit-backdrop-filter: blur(4.8px);
+  border: 1px solid rgba(178, 194, 255, 0.05);
+}

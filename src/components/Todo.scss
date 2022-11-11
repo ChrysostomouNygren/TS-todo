@@ -1,0 +1,24 @@
+.single-task {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 400px;
+}
+.single-task-button {
+  background-color: transparent;
+  border: none;
+}
+
+.single-task-checkbox {
+  accent-color: white;
+}
+
+.checked {
+  color: rgba(255, 255, 255, 0.233);
+  text-decoration: line-through;
+}
+
+.check {
+  color: white;
+  background-color: none;
+}
