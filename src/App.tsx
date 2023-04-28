@@ -7,8 +7,7 @@ import TodoList from "./components/TodoList";
 
 function App() {
   const [tasks, setTasks] = useState([
-    { id: "josd909ufawjhosOJ", title: "klapa snel hest" },
-    { id: "had79jaowr90yatHG", title: "gief hafre" },
+    { id: "josd909ufawjhosOJ", title: "<3" },
   ]);
 
   function addTask(title: string) {
